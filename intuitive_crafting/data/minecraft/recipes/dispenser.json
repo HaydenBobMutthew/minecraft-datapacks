@@ -10,7 +10,7 @@
       "item": "minecraft:cobblestone_slab"
     },
     "X": {
-      "item": "minecraft:bow"
+      "tag": "minecraft:bows"
     }
   },
   "result": {
