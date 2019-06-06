@@ -3,14 +3,14 @@
   "group": "bed",
   "pattern": [
     "##",
-    "XX"
+    "__"
   ],
   "key": {
     "#": {
       "item": "minecraft:red_carpet"
     },
-    "X": {
-      "tag": "minecraft:planks"
+    "_": {
+      "item": "minecraft:oak_trapdoor"
     }
   },
   "result": {
