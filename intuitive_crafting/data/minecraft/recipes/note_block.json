@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "_",
+    "X",
+    "_"
+  ],
+  "key": {
+    "_": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "X": {
+      "item": "minecraft:redstone_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:note_block"
+  }
+}
