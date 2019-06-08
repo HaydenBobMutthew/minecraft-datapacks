@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "_",
+    "RQ",
+    "_"
+  ],
+  "key": {
+    "_": {
+      "item": "minecraft:cobblestone_slab"
+    },
+    "R": {
+      "item": "minecraft:redstone_dust"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "minecraft:observer"
+  }
+}
