@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # "
+        "#Q#",
+        " _ "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone_torch"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        },
+        "_": {
+            "item": "minecraft:smooth_stone_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:comparator"
+    }
+}
