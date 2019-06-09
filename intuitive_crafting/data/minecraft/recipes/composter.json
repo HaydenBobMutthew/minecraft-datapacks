@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/ /",
+        "#_#"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "#": {
+            "tag": "minecraft:wooden_fences"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "result": {
+        "item": "minecraft:composter"
+    }
+}
