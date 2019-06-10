@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# ",
+        "QR",
+        "_ "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass_pane"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "result": {
+        "item": "minecraft:daylight_detector",
+        "count": 1
+    }
+}
