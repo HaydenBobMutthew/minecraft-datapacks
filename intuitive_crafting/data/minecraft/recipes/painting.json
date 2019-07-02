@@ -6,8 +6,11 @@
     "///"
   ],
   "key": {
-    "#": {
+    "_": {
       "tag": "minecraft:carpets"
+    },
+    "/": {
+      "item": "minecraft:stick"
     }
   },
   "result": {
